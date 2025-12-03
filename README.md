@@ -1,4 +1,3 @@
-# 3d-perception
 # AD Perception Bootcamp
 
 Autonomous driving perception (2D/3D detection, MOT, sensor fusion) 실습용 레포.
